@@ -23,7 +23,7 @@ const __DATA__ = {
             'image' : 'wallet.png',
             'title' : 'Thông Tin Thanh Toán', 
             'show-value' : 'Nguyễn Hồng Anh Đức',
-            'value' : '#',
+            'value' : 'bank',
             'type' : 0,
         },
         {
