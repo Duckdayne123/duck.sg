@@ -34,7 +34,7 @@ const USER = {
         {
             name: "MOMO",
             logo: "./images/momo.jpeg",
-            number: "11112222456789",
+            number: "0935723340",
             owner: "NGUYỄN HỒNG ANH ĐỨC",
             fastTransfer: true
         },
