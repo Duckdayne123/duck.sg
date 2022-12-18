@@ -12,7 +12,7 @@ const USER = {
             logo: "./images/bidv.png",
             number: "62010001446581",
             owner: "NGUYEN HONG ANH DUC",
-            fastTransfer: true
+            
         },
        
       
@@ -27,14 +27,14 @@ const USER = {
       {
             name: "TP BANK",
             logo: "./images/tpbank.jpg",
-            number: "00004102007",
+            number: "00000166098",
             owner: "NGUYEN HONG ANH DUC"
         },
       
         {
             name: "MOMO",
             logo: "./images/momo.jpeg",
-            number: "0935723340",
+            number: "11112222456789",
             owner: "NGUYỄN HỒNG ANH ĐỨC",
             fastTransfer: true
         },
@@ -43,7 +43,7 @@ const USER = {
             logo: "./images/zalopay.png",
             number: "0935723340",
             owner: "NGUYỄN HỒNG ANH ĐỨC",
-            fastTransfer: true
+            
         },
        
     ]
